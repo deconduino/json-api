@@ -1,0 +1,22 @@
+{
+  "records": [
+    { "timestamp": 1620385717, "plateId": "XYZ123", "speed": 56 },
+    { "timestamp": 1620224615, "plateId": "XYZ124", "speed": 70 },
+    { "timestamp": 1620152600, "plateId": "XYZ126", "speed": 85 },
+    { "timestamp": 1620024135, "plateId": "XYZ129", "speed": 58 },
+    { "timestamp": 1619937735, "plateId": "XYZ132", "speed": 55 },
+    { "timestamp": 1619943864, "plateId": "XYZ124", "speed": 60 },
+    { "timestamp": 1620188664, "plateId": "XYZ123", "speed": 72 },
+    { "timestamp": 1620299532, "plateId": "XYZ126", "speed": 103 },
+    { "timestamp": 1620385717, "plateId": "XYZ129", "speed": 59 },
+    { "timestamp": 1620472332, "plateId": "XYZ132", "speed": 59 }
+  ],
+  "cars": [
+    { "id": 1, "plateId": "XYZ123", "email": "amusedthunder@nomail.com" },
+    { "id": 2, "plateId": "XYZ124", "email": "imagineduptake@nomail.com" },
+    { "id": 3, "plateId": "XYZ126", "email": "stoppagearchitect@nomail.com" },
+    { "id": 4, "plateId": "XYZ129", "email": "seatedcompanions@nomail.com" },
+    { "id": 5, "plateId": "XYZ132", "email": "seatedcompanions@nomail.com" },
+    { "id": 6, "plateId": "XYZ136", "email": "payoutsjolts@nomail.com" }
+  ]
+}
